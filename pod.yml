@@ -1,4 +1,4 @@
-apiVersion:kind: Node
+kind: Node
 apiVersion: v1
 metadata:
   name: ip-10-0-131-14.ec2.internal
